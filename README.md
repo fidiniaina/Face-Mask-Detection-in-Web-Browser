@@ -6,7 +6,7 @@ Create a new python virtual environment by [Anaconda](https://www.anaconda.com/)
 
 
 ### Demo 
-https://neloynsu.github.io/Face-Mask-Detection-in-Web-Browser/
+https://fidiniaina.github.io/Face-Mask-Detection-in-Web-Browser/
 
 
 ### License
